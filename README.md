@@ -37,6 +37,7 @@ I believe in the power of open-source and enjoy contributing to projects. Feel f
 📬 Contact Me
 Email: fiver1faizan@gmail.com  
 LinkedIn: www.linkedin.com/in/faizanhaiderdev
+portfolio: https://faizanitaliar.online/
 
 Thank you for visiting my profile. Happy coding! 😊
 
